@@ -1,0 +1,31 @@
+@import '~bootstrap/scss/bootstrap';
+
+.about-wrapper {
+    min-height: 77vh;
+    padding-bottom: 30px;
+
+    .row {
+        padding-top: 100px;
+        .image {
+            width: 33%;
+            padding-left: 10px;
+            padding-top: 10px;
+            padding-top:20px;
+            img {
+                width: 100%;
+            }
+        }
+        .about-text {
+            width: 50%;
+            font-size: 20px;
+            padding-top: 40px;
+
+            .page-tile {
+                text-align: center;
+                font-size: 28px;
+                font-weight: 600;
+            }
+        }
+    }
+}
+

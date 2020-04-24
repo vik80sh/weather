@@ -1,0 +1,16 @@
+@import '~bootstrap/scss/bootstrap';
+
+.form-wrapper{
+    background-color: salmon;
+    .header-container{
+        span{
+            padding: 10px;
+        }
+    }
+    .login{
+        background-color: green
+    }
+    .signup{
+        background-color: red
+    }
+}

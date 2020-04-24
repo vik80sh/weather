@@ -1,0 +1,24 @@
+.navbar {
+    padding: 0;
+    height: 65px;
+
+    .nav-extended {
+        height: 100%;
+
+        .nav-content {
+            padding: 0 20px;
+            .nav-title {
+                padding: 10px;
+            }
+            .about{
+                float: right;
+                padding-right: 20px;
+                padding-top: 20px;
+            }
+            .nav-title{
+                font-size: 28px;
+            }
+           
+        }
+    }
+}
