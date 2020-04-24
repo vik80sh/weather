@@ -32,14 +32,7 @@ Functionality :
 
 4.  for some city weather is not working please change city
 
-5.      For Firebase Database : Mindtree laptop is not connecting to firebase database
-    i have create one more project on Vue 
-    you can check that i have done CRUD opertion with help of firebse database
-    here is url : https://vuejssample-d4915.web.app/#/
-    Please open in personal mobile/laptop  
 
-
-5. Extra features that were not asked for	  added    Router and debouncing in search
 
 
 
